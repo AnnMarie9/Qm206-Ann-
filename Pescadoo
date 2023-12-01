@@ -1,0 +1,78 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "toc_visible": true,
+      "authorship_tag": "ABX9TyO7+c/xeU6i1YBnsQXYKtoY",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/AnnMarie9/Qm206-Ann-/blob/main/Pescadoo\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "id": "LH2YpdZJTaqP"
+      },
+      "outputs": [],
+      "source": [
+        "import numpy as np\n",
+        "import pandas as pd\n",
+        "import matplotlib.pyplot as plt\n",
+        "import seaborn as sns"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "FT4-Wq-udP83"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# De especies \tEspecies de pescado\tLongitud (cm)\tPeso (lbs)\n",
+        "2\tBarbú \t11\t7\n",
+        "3\tCojinua \t8\t5\n",
+        "4\tCorbina\t4\t2\n",
+        "5\tCoronado \t10\t4\n",
+        "6\tGuapote\t13\t9\n",
+        "7\tMero \t15\t9\n",
+        "8\tMojarra \t9\t6\n",
+        "9\tPargo \t30\t14\n",
+        "10\tPeje Perro\t15\t6\n",
+        "11\tRóbalo \t22\t12\n",
+        "12\tRoncador\t20\t9\n",
+        "13\tSalmón\t40\t18\n",
+        "14\tTrucha \t24\t10\n",
+        "15\tUrel \t18\t12\n",
+        "16\tZábalo \t26\t13\n"
+      ],
+      "metadata": {
+        "id": "bddMDl_3dQ5z"
+      }
+    }
+  ]
+}
