@@ -1,0 +1,62 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPLucD/oq57EQCmZMvAfdfu",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/AnnMarie9/Qm206-Ann-/blob/main/funci%C3%B3nMax\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 3,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "e8qS20y4B_xk",
+        "outputId": "8128872c-7c91-43db-b950-503aee622270"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "El número máximo entre 8, 14 y 20 es: 20\n"
+          ]
+        }
+      ],
+      "source": [
+        "def max3(a, b, c):\n",
+        "    maximo = max(a, b, c)\n",
+        "    return maximo\n",
+        "\n",
+        "numero1 = 8\n",
+        "numero2 = 14\n",
+        "numero3 = 20\n",
+        "\n",
+        "resultado = max3(numero1, numero2, numero3)\n",
+        "print(f\"El número máximo entre {numero1}, {numero2} y {numero3} es: {resultado}\")"
+      ]
+    }
+  ]
+}
